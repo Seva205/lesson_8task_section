@@ -1,0 +1,143 @@
+* {
+  padding-left: 20px;
+
+  max-width: 1356px;
+
+  border-bottom: 90px;
+}
+container {
+  flex-wrap: wrap;
+  width: 1680px;
+}
+div a {
+  padding-left: 55px;
+  color: aliceblue;
+}
+
+.edu_btn {
+  background-color: #39c5f3;
+  font: 18px Poppins-Light;
+  display: inline-block;
+  font-size: 18px;
+  display: flex;
+  font-weight: 700;
+  border-radius: 6px;
+  text-transform: capitalize;
+  padding: 16px 32px 20px;
+  z-index: 2;
+  color: #fff;
+}
+.navigation {
+  align-items: center;
+
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 0.48px;
+  position: relative;
+
+  background-color: #082c5b;
+
+  height: 70px;
+  width: 110%;
+}
+
+.categories {
+  right: 80px;
+  top: 0;
+  width: 80%;
+  height: 80%;
+  border-radius: 14px;
+  content: "";
+  background: rgba(30, 31, 37, 0.5);
+}
+
+div h3 {
+  font: 24px Popins bold, sans-serif;
+  text-decoration: solid;
+  font-size: 24px;
+  line-height: 26px;
+  position: relative;
+  color: #183e6b;
+  padding: 0 20px;
+  z-index: 0;
+  margin: 0 0 11px;
+  padding-left: 600px;
+  font-weight: bolder;
+}
+div p {
+  font-size: 30px;
+  color: #2a254d;
+  margin-bottom: 20px;
+  padding-left: 500px;
+  font-weight: bolder;
+}
+.card1 {
+  color: #2a254d;
+  justify-content: flex-start;
+  font-weight: bold;
+  font-size: 20px;
+
+  direction: left 150px;
+
+  width: 250px;
+  border: 1.5px solid rgb(43, 81, 232);
+
+  border-radius: 12px;
+  padding: 50px;
+  margin-left: 100px;
+  box-sizing: content-box;
+}
+.card2 {
+  color: #2a254d;
+  justify-content: flex-start;
+  font-weight: bold;
+  font-size: 20px;
+
+  direction: left 100px;
+  width: 250px;
+  border: 1.5px solid rgb(43, 81, 232);
+
+  border-radius: 12px;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: content-box;
+}
+.card3 {
+  color: #2a254d;
+
+  font-weight: bold;
+  font-size: 20px;
+
+  direction: left 100px;
+  width: 250px;
+  border: 1.5px solid rgb(43, 81, 232);
+  box-shadow: 5cap;
+  border-radius: 12px;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: content-box;
+}
+.card4 {
+  color: #2a254d;
+  justify-content: flex-start;
+  font-weight: bold;
+  font-size: 20px;
+
+  direction: left 100px;
+  width: 250px;
+  border: 1.5px solid rgb(43, 81, 232);
+  box-shadow: 5cap;
+  border-radius: 12px;
+  padding: 50px;
+  margin: 20px;
+  box-sizing: content-box;
+}
+
+.common {
+  display: flex;
+  justify-content: center;
+}
